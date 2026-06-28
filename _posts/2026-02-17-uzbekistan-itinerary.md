@@ -24,7 +24,7 @@ source_url: https://therenbak.blogspot.com/2026/02/uzbekistan-Itinerary.html
 
 ![烏魯貝克經學院](/assets/images/uzbekistan/itinerary/uzbekistan-itinerary-03.jpg)
 
-*烏魯貝克經學院，曾是中亞最頂尖的伊斯蘭教學府，教授神學、天文學和數學。*
+<p class="photo-caption">烏魯貝克經學院，曾是中亞最頂尖的伊斯蘭教學府，教授神學、天文學和數學。</p>
 
 曾經，前往中亞是一場壯遊；而現在，隨著旅遊簽證開放與現代化火車的串連，那些被世界遺產標註的名字不再遙不可及。
 
@@ -32,7 +32,7 @@ source_url: https://therenbak.blogspot.com/2026/02/uzbekistan-Itinerary.html
 
 ![希瓦古城](/assets/images/uzbekistan/itinerary/uzbekistan-itinerary-04.jpg)
 
-*在希瓦留宿感受觀光客散去後的古城氛圍。*
+<p class="photo-caption">在希瓦留宿感受觀光客散去後的古城氛圍。</p>
 
 ## 烏茲別克 11 天行程安排
 

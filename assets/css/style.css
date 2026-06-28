@@ -277,6 +277,16 @@ a {
   margin: 32px auto;
 }
 
+.post-content img + .photo-caption {
+  width: 70%;
+  margin: -20px auto 34px;
+  color: var(--muted);
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Noto Sans TC", sans-serif;
+  font-size: 13px;
+  line-height: 1.55;
+  text-align: center;
+}
+
 .post-content h2 {
   margin: 58px 0 18px;
   padding-bottom: 10px;
@@ -359,6 +369,10 @@ a {
   }
 
   .post-content img {
+    width: 100%;
+  }
+
+  .post-content img + .photo-caption {
     width: 100%;
   }
 }
