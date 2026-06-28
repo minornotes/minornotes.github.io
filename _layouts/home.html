@@ -5,9 +5,7 @@ layout: default
 {% assign featured = site.posts | first %}
 <section class="hero">
   <div class="hero-copy">
-    <p class="eyebrow">Travel journal</p>
     <h1>{{ site.title }}</h1>
-    <p>{{ site.description }}</p>
   </div>
   {% if featured %}
     <a class="hero-story" href="{{ featured.url | relative_url }}">
@@ -22,10 +20,6 @@ layout: default
 </section>
 
 <section class="section">
-  <div class="section-heading">
-    <p class="eyebrow">Latest stories</p>
-    <h2>最新遊記</h2>
-  </div>
   <div class="story-grid">
     {% for post in site.posts limit:6 %}
       <article class="story-card">
@@ -43,10 +37,6 @@ layout: default
 </section>
 
 <section class="section category-band">
-  <div class="section-heading">
-    <p class="eyebrow">Browse</p>
-    <h2>分類閱讀</h2>
-  </div>
   <div class="category-grid">
     {% for category in site.data.categories %}
       <a class="category-card" href="{{ category.url | relative_url }}">
