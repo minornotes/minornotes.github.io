@@ -5,20 +5,20 @@
 - key: hungary
   name: 匈牙利
   url: /categories/hungary/
-  description: 多瑙河、溫泉、咖啡館與黃昏街景。
+  description: 多瑙河、溫泉、音樂與黃昏街景。
 - key: cote-d-azur
   name: 蔚藍海岸
   url: /categories/cote-d-azur/
-  description: 尼斯、海岸線、陽光與午後的風。
+  description: 從坎城到聖里摩的藍色海岸線
 - key: japan
   name: 日本
   url: /categories/japan/
-  description: 小路、季節、列車與安靜的日常。
+  description: 真的很常去，隨手記錄
 - key: food
   name: 美食
   url: /categories/food/
-  description: 旅途中被記住的一餐與一杯飲料。
+  description: 旅途中被記住的餐食
 - key: stays
   name: 住宿
   url: /categories/stays/
-  description: 房間、窗景、床邊燈與醒來的城市。
+  description: 房間、窗景與醒來的城市。
