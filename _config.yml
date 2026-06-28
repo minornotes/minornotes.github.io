@@ -1,0 +1,23 @@
+title: 途中雜誌
+description: 旅行、城市散步、餐桌與醒來的房間。
+lang: zh-Hant
+timezone: Asia/Taipei
+url: ""
+baseurl: ""
+permalink: /:categories/:year/:month/:day/:title/
+markdown: kramdown
+
+collections:
+  posts:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ""
+    values:
+      layout: default
