@@ -23,17 +23,19 @@ source_url: https://therenbak.blogspot.com/2026/02/uzbekistan-Itinerary.html
 
 在我們習慣的東亞史觀外，中世紀的烏茲別克曾是全球知識的中心。信奉著「追求智慧是穆斯林的責任」，這塊土地孕育出一群走在時代尖端的人物：發明代數的 Khwarizmi、Ibn Sino 完成被視為西方醫學始祖的《醫典》、烏魯貝克標記出 1018 顆恆星的位置；甚至早在哥倫布出航前 500 年，Biruni 光透過測量就知道新大陸存在。這些智慧在陸路絲路沒落與蘇聯鐵幕下靜默許久，直到 1991 年獨立，才重新回到旅人的視線裡。
 
-![烏魯貝克經學院](/assets/images/uzbekistan/itinerary/uzbekistan-itinerary-03.jpg)
-
-<p class="photo-caption">烏魯貝克經學院，曾是中亞最頂尖的伊斯蘭教學府，教授神學、天文學和數學。</p>
+<figure class="photo-figure">
+  <img src="/assets/images/uzbekistan/itinerary/uzbekistan-itinerary-03.jpg" alt="烏魯貝克經學院">
+  <figcaption>烏魯貝克經學院，曾是中亞最頂尖的伊斯蘭教學府，教授神學、天文學和數學。</figcaption>
+</figure>
 
 曾經，前往中亞是一場壯遊；而現在，隨著旅遊簽證開放與現代化火車的串連，那些被世界遺產標註的名字不再遙不可及。
 
 這次 11 天的旅程，我選擇把大部分時間給了撒瑪爾罕、並且在希瓦住一晚，扣除轉機共約九天，從現代化的首都塔什干出發，漫步在蘇聯時期留下的筆直大道上，然後透過鐵軌串連撒馬爾罕、布哈拉與希瓦。這幾座城市各自擁有不同的靈魂，從蘇聯時期的現代感，到兩千年前的古老交易站，每一站都像是一次時空跳躍。
 
-![希瓦古城](/assets/images/uzbekistan/itinerary/uzbekistan-itinerary-04.jpg)
-
-<p class="photo-caption">在希瓦留宿感受觀光客散去後的古城氛圍。</p>
+<figure class="photo-figure">
+  <img src="/assets/images/uzbekistan/itinerary/uzbekistan-itinerary-04.jpg" alt="希瓦古城">
+  <figcaption>在希瓦留宿感受觀光客散去後的古城氛圍。</figcaption>
+</figure>
 
 ## 烏茲別克 11 天行程安排
 

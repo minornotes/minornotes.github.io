@@ -283,7 +283,28 @@ a {
   margin: 32px auto;
 }
 
-.post-content img + .photo-caption {
+.photo-figure {
+  width: 70%;
+  margin: 32px auto;
+}
+
+.photo-figure img {
+  width: 100%;
+  margin: 0;
+}
+
+.photo-figure figcaption {
+  width: 100%;
+  margin: 8px auto 0;
+  color: var(--muted);
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Noto Sans TC", sans-serif;
+  font-size: 13px;
+  line-height: 1.55;
+  text-align: center;
+}
+
+.post-content img + .photo-caption,
+.post-content p:has(img) + .photo-caption {
   width: 70%;
   margin: -20px auto 34px;
   color: var(--muted);
@@ -379,6 +400,12 @@ a {
   }
 
   .post-content img + .photo-caption {
+    width: 100%;
+  }
+
+  .photo-figure,
+  .photo-figure figcaption,
+  .post-content p:has(img) + .photo-caption {
     width: 100%;
   }
 }
