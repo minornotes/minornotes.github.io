@@ -7,6 +7,7 @@
   --clay: #bc6c45;
   --sage: #7f9172;
   --white: #fffaf3;
+  --post-wide: calc(100% - clamp(36px, 10vw, 128px));
 }
 
 * {
@@ -203,8 +204,9 @@ a {
 
 .page-intro,
 .post-header {
-  max-width: 920px;
-  padding: clamp(44px, 8vw, 92px) clamp(18px, 5vw, 64px) 34px;
+  width: var(--post-wide);
+  margin: 0 auto;
+  padding: clamp(44px, 8vw, 92px) 0 34px;
 }
 
 .page-intro h1,
@@ -218,7 +220,7 @@ a {
 
 .post-hero {
   display: block;
-  width: calc(100% - clamp(36px, 10vw, 128px));
+  width: var(--post-wide);
   max-height: 72vh;
   margin: 0 auto 42px;
   object-fit: cover;
@@ -235,7 +237,7 @@ a {
 .post-toc {
   max-width: 760px;
   margin: 0 auto 38px;
-  padding: 22px 26px;
+  padding: 18px 22px;
   background: var(--white);
   border: 1px solid var(--line);
 }
@@ -249,21 +251,20 @@ a {
 }
 
 .post-toc ol {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 8px 22px;
   margin: 0;
   padding-left: 20px;
 }
 
 .post-toc li {
   color: var(--muted);
+  font-size: 14px;
   line-height: 1.35;
+  margin: 6px 0;
 }
 
 .post-toc .toc-subitem {
-  margin-left: 12px;
-  font-size: 15px;
+  margin-left: 14px;
+  font-size: 13px;
 }
 
 .post-toc a:hover {
@@ -324,8 +325,7 @@ a {
   }
 
   .story-grid,
-  .category-grid,
-  .post-toc ol {
+  .category-grid {
     grid-template-columns: 1fr;
   }
 
