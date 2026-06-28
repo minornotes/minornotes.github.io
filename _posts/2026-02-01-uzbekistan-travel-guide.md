@@ -36,7 +36,7 @@ source_url: https://therenbak.blogspot.com/2026/02/uzbekistan-travel-guide.html
 
   - Day11 首爾 -> 台北
 
-[烏茲別克 11 天行程規劃詳細可以看這篇](https://therenbak.blogspot.com/2026/02/uzbekistan-Itinerary.html)，景點跟住宿的部分會另外分享，這邊先大致給個旅行的輪廓和目標。另外烏茲別克很多事情很玄學，網上能查到的資訊也不多，這篇重點分享肉身衝撞的經驗，跟一些需要事先準備的部分。
+[烏茲別克 11 天行程規劃詳細可以看這篇]({% post_url 2026-02-17-uzbekistan-itinerary %})，景點跟住宿的部分會另外分享，這邊先大致給個旅行的輪廓和目標。另外烏茲別克很多事情很玄學，網上能查到的資訊也不多，這篇重點分享肉身衝撞的經驗，跟一些需要事先準備的部分。
 
 從安排交通買票開始就會碰到玄學了，所以從交通先開始說。
 
