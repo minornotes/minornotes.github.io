@@ -287,7 +287,9 @@ a {
 
 .post-content h3 {
   margin: 42px 0 12px;
-  color: var(--accent);
+  padding-left: 12px;
+  border-left: 3px solid #c9c2b7;
+  color: #3f3d38;
   font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Noto Sans TC", sans-serif;
   font-size: 23px;
   line-height: 1.25;
