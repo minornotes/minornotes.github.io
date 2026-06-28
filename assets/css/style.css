@@ -273,14 +273,25 @@ a {
 
 .post-content img {
   display: block;
-  width: 100%;
-  margin: 32px 0;
+  width: 70%;
+  margin: 32px auto;
 }
 
 .post-content h2 {
-  margin-top: 42px;
-  font-size: 32px;
-  line-height: 1.2;
+  margin: 58px 0 18px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--line);
+  font-size: 38px;
+  line-height: 1.15;
+}
+
+.post-content h3 {
+  margin: 42px 0 12px;
+  color: var(--accent);
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Noto Sans TC", sans-serif;
+  font-size: 23px;
+  line-height: 1.25;
+  font-weight: 800;
 }
 
 .site-footer {
@@ -330,6 +341,10 @@ a {
   }
 
   .post-hero {
+    width: 100%;
+  }
+
+  .post-content img {
     width: 100%;
   }
 }

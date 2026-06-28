@@ -244,7 +244,7 @@ Global Connect 邀請函團購價：5 個人以上（含 5 人）一起送申請
 #### ATM
 
 烏茲別克許多 ATM 都可以提 som，或是用美金/歐元入鈔換 som。在塔什干好一點的 mall 都會有提款機，布哈拉跟希瓦提款機也很多，尤其是希瓦很多餐廳裡都會放提款機。不過要注意其中有許多老舊失修的提款機會吃錢，或功能無法啟用，我自己會找看起來比較新或是找得到人幫忙的提款機提錢。像是 NBU (National Bank of Uzbekistan) 的機器都很新，附上他在布哈拉跟希瓦的位置：
-布哈拉 [https://maps.app.goo.gl/T2qNToYmyrNWZNnS9](https://maps.app.goo.gl/T2qNToYmyrNWZNnS9)
+布哈拉 [https://maps.app.goo.gl/T2qNToYmyrNWZNnS9](https://maps.app.goo.gl/T2qNToYmyrNWZNnS9)  
 希瓦(在餐廳一樓) [https://maps.app.goo.gl/GkWPxruugdyVbZ958](https://maps.app.goo.gl/GkWPxruugdyVbZ958)
 
 #### 信用卡
