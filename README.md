@@ -1,6 +1,6 @@
-# 途中雜誌
+# Minor Notes
 
-A GitHub Pages-ready Jekyll travel blog for photo-rich travel essays.
+A GitHub Pages-ready Jekyll site for travel writing, notes, and photo-rich essays.
 
 ## Write A New Story
 

@@ -5,8 +5,8 @@ permalink: /about/
 
 <section class="page-intro">
   <p class="eyebrow">About</p>
-  <h1>關於這本途中雜誌</h1>
-  <p>這裡收藏旅行裡慢慢看見的城市、餐桌、房間和風景。不是攻略大全，比較像一本可持續寫下去的私人旅行雜誌。</p>
+  <h1>關於 Minor Notes</h1>
+  <p>這裡收藏旅行裡慢慢看見的城市、餐桌、房間和風景，也放一些生活裡值得留下的小筆記。</p>
 </section>
 
 <section class="post-content">
