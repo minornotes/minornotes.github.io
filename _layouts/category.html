@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<section class="page-intro">
+  <p class="eyebrow">Category</p>
+  <h1>{{ page.title }}</h1>
+  <p>{{ page.description }}</p>
+</section>
+
+<section class="section">
+  <div class="story-grid">
+    {% assign filtered_posts = site.posts | where: "category", page.category %}
+    {% for post in filtered_posts %}
+      <article class="story-card">
+        <a href="{{ post.url | relative_url }}">
+          <div class="card-photo" style="background-image:url('{{ post.hero_image | relative_url }}')"></div>
+          <div class="card-body">
+            <p class="meta">{{ post.location }} · {{ post.date | date: "%Y.%m.%d" }}</p>
+            <h3>{{ post.title }}</h3>
+            <p>{{ post.excerpt }}</p>
+          </div>
+        </a>
+      </article>
+    {% endfor %}
+  </div>
+</section>

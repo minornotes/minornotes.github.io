@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<article class="post">
+  <header class="post-header">
+    <p class="meta">{{ page.category_name }} · {{ page.location }} · {{ page.date | date: "%Y.%m.%d" }}</p>
+    <h1>{{ page.title }}</h1>
+    <p class="dek">{{ page.excerpt }}</p>
+  </header>
+
+  {% if page.hero_image %}
+    <img class="post-hero" src="{{ page.hero_image | relative_url }}" alt="{{ page.title }}">
+  {% endif %}
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+</article>
