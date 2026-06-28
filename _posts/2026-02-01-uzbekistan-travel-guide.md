@@ -6,7 +6,7 @@ category: uzbekistan
 category_name: 烏茲別克
 location: 烏茲別克
 excerpt: "決定去烏茲別克只要一瞬間；但要真正抵達那裡，卻是一場蒐集資料的馬拉松。"
-hero_image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgyAPHSK8OAjZKJGbBgth7qq3sIRyz-FHKEXFi06KgaDWg8ofLB_jOtR_FXOsu1QYE9HuPrNTe_aaLUII7Qc7nxBdoAmiI9IYakFyTqblKWjmmHZiqvDp1zVf9z89skpTOhdp5uuSiVl_1yqEA3k3cHV03N8Nz2YlARatqRs-3DDplq_NkEnzZ9W3Q7CU/w1200-h630-p-k-no-nu/IMG_9898.PNG
+hero_image: /assets/images/uzbekistan/uzbekistan-travel-guide-hero.jpg
 source_url: https://therenbak.blogspot.com/2026/02/uzbekistan-travel-guide.html
 ---
 
