@@ -232,6 +232,44 @@ a {
   font-size: 19px;
 }
 
+.post-toc {
+  max-width: 760px;
+  margin: 0 auto 38px;
+  padding: 22px 26px;
+  background: var(--white);
+  border: 1px solid var(--line);
+}
+
+.post-toc p {
+  margin: 0 0 12px;
+  color: var(--clay);
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Noto Sans TC", sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.post-toc ol {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px 22px;
+  margin: 0;
+  padding-left: 20px;
+}
+
+.post-toc li {
+  color: var(--muted);
+  line-height: 1.35;
+}
+
+.post-toc .toc-subitem {
+  margin-left: 12px;
+  font-size: 15px;
+}
+
+.post-toc a:hover {
+  color: var(--accent);
+}
+
 .post-content img {
   display: block;
   width: 100%;
@@ -286,7 +324,8 @@ a {
   }
 
   .story-grid,
-  .category-grid {
+  .category-grid,
+  .post-toc ol {
     grid-template-columns: 1fr;
   }
 

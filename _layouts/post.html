@@ -13,7 +13,47 @@ layout: default
     <img class="post-hero" src="{{ page.hero_image | relative_url }}" alt="{{ page.title }}">
   {% endif %}
 
+  <nav class="post-toc" aria-label="文章索引" hidden>
+    <p>文章索引</p>
+    <ol></ol>
+  </nav>
+
   <div class="post-content">
     {{ content }}
   </div>
 </article>
+
+<script>
+  (function () {
+    var content = document.querySelector(".post-content");
+    var toc = document.querySelector(".post-toc");
+    if (!content || !toc) return;
+
+    var headings = content.querySelectorAll("h2, h3");
+    if (!headings.length) return;
+
+    var list = toc.querySelector("ol");
+    headings.forEach(function (heading, index) {
+      var text = heading.textContent.trim();
+      if (!text) return;
+
+      if (!heading.id) {
+        heading.id = "section-" + index + "-" + text
+          .toLowerCase()
+          .replace(/[^\w\u4e00-\u9fff]+/g, "-")
+          .replace(/^-+|-+$/g, "");
+      }
+
+      var item = document.createElement("li");
+      if (heading.tagName.toLowerCase() === "h3") item.className = "toc-subitem";
+
+      var link = document.createElement("a");
+      link.href = "#" + heading.id;
+      link.textContent = text;
+      item.appendChild(link);
+      list.appendChild(item);
+    });
+
+    if (list.children.length) toc.hidden = false;
+  })();
+</script>
