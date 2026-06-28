@@ -296,9 +296,9 @@ a {
 .photo-figure figcaption {
   width: 100%;
   margin: 8px auto 0;
-  color: var(--muted);
+  color: #9a958d;
   font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Noto Sans TC", sans-serif;
-  font-size: 13px;
+  font-size: 11px;
   line-height: 1.55;
   text-align: center;
 }
@@ -307,9 +307,9 @@ a {
 .post-content p:has(img) + .photo-caption {
   width: 70%;
   margin: -20px auto 34px;
-  color: var(--muted);
+  color: #9a958d;
   font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Noto Sans TC", sans-serif;
-  font-size: 13px;
+  font-size: 11px;
   line-height: 1.55;
   text-align: center;
 }
