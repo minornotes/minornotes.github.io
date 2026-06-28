@@ -10,7 +10,7 @@ layout: default
   </header>
 
   {% if page.hero_image %}
-    <img class="post-hero{% if page.hero_fit == 'contain' % post-hero-contain{% endif %}" src="{{ page.hero_image | relative_url }}" alt="{{ page.title }}">
+    <img class="post-hero {{ page.hero_class }}" src="{{ page.hero_image | relative_url }}" alt="{{ page.title }}">
   {% endif %}
 
   <nav class="post-toc" aria-label="文章索引" hidden>

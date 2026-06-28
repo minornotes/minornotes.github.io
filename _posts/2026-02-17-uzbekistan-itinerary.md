@@ -7,7 +7,7 @@ category_name: 烏茲別克
 location: 中亞旅行
 excerpt: "烏茲別克是一趟關於時間、沙塵與鈷藍色的旅行。從現代化的首都出發，逆著絲綢之路，走進那些被乾旱氣候完美封存的歷史現場。"
 hero_image: /assets/images/uzbekistan/itinerary/uzbekistan-itinerary-hero.jpg
-hero_fit: contain
+hero_class: post-hero-contain
 source_url: https://therenbak.blogspot.com/2026/02/uzbekistan-Itinerary.html
 ---
 
