@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign featured = site.posts | where: "slug", "uzbekistan-travel-guide" | first %}
+{% assign featured = site.posts | where: "featured", true | first %}
 <section class="hero">
   {% if featured %}
     <a class="hero-story" href="{{ featured.url | relative_url }}">

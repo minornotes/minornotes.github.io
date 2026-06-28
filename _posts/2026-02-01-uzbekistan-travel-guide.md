@@ -7,6 +7,7 @@ category_name: 烏茲別克
 location: 中亞旅行
 excerpt: "決定去烏茲別克只要一瞬間；但要真正抵達那裡，卻是一場蒐集資料的馬拉松。"
 hero_image: /assets/images/uzbekistan/uzbekistan-travel-guide-hero-v2.jpg
+featured: true
 source_url: https://therenbak.blogspot.com/2026/02/uzbekistan-travel-guide.html
 ---
 
