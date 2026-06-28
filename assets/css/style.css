@@ -63,8 +63,8 @@ a {
 }
 
 .hero {
-  min-height: 72vh;
-  padding: clamp(28px, 5vw, 58px) clamp(18px, 5vw, 64px) 42px;
+  min-height: 76vh;
+  padding: 0 0 42px;
 }
 
 .eyebrow,
@@ -80,10 +80,10 @@ a {
 
 .hero-story {
   display: grid;
-  grid-template-columns: minmax(180px, 0.9fr) minmax(0, 1fr);
-  min-height: 390px;
+  grid-template-columns: minmax(0, 1.35fr) minmax(320px, 0.65fr);
+  min-height: 68vh;
   background: var(--white);
-  border: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
 }
 
 .story-image,
